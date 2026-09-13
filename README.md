@@ -10,7 +10,7 @@ foregrounds over a soft brown-black background, with a dusty terracotta accent.
 
 ## Additional wallpapers
 
-The collection now also includes seventeen portraits of influential pioneers
+The collection now also includes eighteen portraits of influential pioneers
 of computing and communications:
 
 - [Linus Torvalds](backgrounds/2-linus-torvalds.jpg) — Linux kernel and Git
@@ -30,6 +30,7 @@ of computing and communications:
 - [Alan Kay](backgrounds/16-alan-kay.jpg) — Dynabook, Smalltalk, and object-oriented personal computing
 - [Bill Joy](backgrounds/17-bill-joy.jpg) — vi, BSD Unix, TCP/IP, and Sun Microsystems
 - [Hedy Lamarr](backgrounds/18-hedy-lamarr.jpg) — frequency-hopping secure communications
+- [Brewster Kahle](backgrounds/20-brewster-kahle.jpg) — the Internet Archive and universal access to knowledge
 
 The wallpapers use the same aged-paper, monochrome ink, technical-diagram,
 and terracotta-accent treatment as the original. Research notes, source
